@@ -1,0 +1,105 @@
+#body{
+  background-color :white;
+}
+.buttons{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+.button{
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 2px;
+    cursor: pointer;
+    margin-bottom:auto;
+    
+  }
+#button1 , #button2 , #button3 , #button4 , #button5 , #button6 , #button7{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+ 
+#button1{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid red;
+}
+#button2{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid green;
+}
+#button3{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid purple;
+}
+#button4{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid pink;
+}
+#button5{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid blue;
+}
+#button6{
+  background-color:rgb(200,200,200);
+  color: black;
+  border: 2px solid orange;
+}
+#button1:hover{
+  background-color: rgb(200,200,200);
+  color: Red;
+  border: 2px solid white;
+}
+#button2:hover{
+  background-color: rgb(200,200,200);
+  color: green;
+  border: 2px solid white;
+}
+#button3:hover{
+  background-color: rgb(200,200,200);
+  color: purple ;
+  border: 2px solid white;
+}
+#button4:hover{
+  background-color: rgb(200,200,200);
+  color: pink ;
+  border: 2px solid white;
+}
+#button5:hover{
+  background-color: rgb(200,200,200);
+  color: blue ;
+  border: 2px solid white;
+}
+#button6:hover{
+  background-color: rgb(200,200,200);
+  color: orange ;
+  border: 2px solid white;
+}
+
+.heading {
+  font-weight:14em;
+  font-size:larger;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(blue, coral, blue);
+  -webkit-background-clip: text; /* non-standard property */
+  background-clip: text; /* standard property */
+  color: transparent;
+}
+.container {
+  padding: 2em;
+}
