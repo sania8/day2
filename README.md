@@ -1,4 +1,4 @@
-# 🌈 Hey, It's Sania! 🎨
+#  Hey, It's Sania! 🎨
 
 Hey there, wonderful people! It's Sania here, and I've got another fun project to share with you all. 🚀✨ This time, I've created a super cool background color changer using the power of HTML, CSS, and JS. Yep, you heard that right! 💻🌈
 
